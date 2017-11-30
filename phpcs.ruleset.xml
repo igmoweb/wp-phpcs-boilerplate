@@ -8,7 +8,10 @@
 	<exclude-pattern>*/data/*</exclude-pattern>
 	<exclude-pattern>*.js</exclude-pattern>
 
-	<rule ref="WordPress-VIP">
+	<arg name="report" value="full"/>
+	<arg name="colors"/>
+
+	<rule ref="WordPress">
 		<!-- Disable Yoda conditions check as an example. -->
 		<exclude name="WordPress.PHP.YodaConditions" />
 	</rule>
