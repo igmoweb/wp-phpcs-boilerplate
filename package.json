@@ -1,0 +1,13 @@
+{
+  "name": "WP-PHPCS-Boilerplate",
+  "version": "1.0.0",
+  "description": "A bolierplate to start a project with PHPCS.",
+  "author": "Ignacio Cruz",
+  "license": "GPL-2.0+",
+  "scripts": {
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-shell": "^1.1.2"
+  }
+}

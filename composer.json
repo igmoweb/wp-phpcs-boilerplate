@@ -1,0 +1,16 @@
+{
+    "name": "igmoweb/wp-phpcs-boilerplate",
+    "require": {
+        "php": ">=7.0"
+    },
+    "scripts": {
+        "post-install-cmd": "grunt install"
+    },
+    "require-dev": {
+        "wp-coding-standards/wpcs": "*",
+        "wimg/php-compatibility": "*",
+        "squizlabs/php_codesniffer": "2.9.0",
+        "fig-r/psr2r-sniffer": "^0.4.1",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.4.2"
+    }
+}
