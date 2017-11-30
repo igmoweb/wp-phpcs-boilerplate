@@ -6,7 +6,7 @@ This is a boilerplate to create a new WordPress project with PHPCS and a pre com
 
 Clone this repo with `git clone --recursive https://github.com/igmoweb/wp-phpcs-boilerplate`
 
-I you forgot the `--recursive` param, use the following command
+If you forgot the `--recursive` param, use the following command
 `git submodule update --init --recursive`
 
 After that:
