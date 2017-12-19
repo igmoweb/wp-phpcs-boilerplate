@@ -10,8 +10,8 @@ If you forgot the `--recursive` param, use the following command
 `git submodule update --init --recursive`
 
 After that:
-`npm install`
-`composer install`
+- `npm install`
+- `composer install`
 
 This will install `wp-dev-lib` from https://github.com/xwp/wp-dev-lib
 After that, Grunt will generate a pre-commit hook that will inspect your code in every commit.
